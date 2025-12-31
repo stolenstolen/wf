@@ -1,6 +1,6 @@
 {
   "name": "portfolio-dev",
-  "type": "module",
+  "type": "commonjs",
   "version": "0.1.0",
   "private": true,
   "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
@@ -14,7 +14,6 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
   "main": "commitlint.config.js",
   "scripts": {
     "dev": "next dev",
@@ -36,9 +35,9 @@
     "cmdk": "^1.0.4",
     "lucide-react": "^0.475.0",
     "motion": "^12.4.1",
-    "next": "^16.1.1",
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3",
+    "next": "^15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "tailwind-merge": "^3.0.1",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^1.1.2"
